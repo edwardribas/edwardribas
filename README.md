@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hey! I'm Edward 👋
 
-My name is **Eduardo Ribas** and I am 16 years old. <br>
-I'm currently studying web development. <br>
-See my portfolio by clicking <a href="https://edwardribas.github.io">here</a>
+Web development student <br>
+Always trying to get better on my projects <br>
+You can see them in [my portfolio](https://edwardribas.github.io/).
+
+### Social medias 🌎
+
+[Twitter](https://twitter.com/edwardb_as) <br>
+[Instagram](https://instagram.com/edwardb.as) <br>
+[LinkedIn](https://www.linkedin.com/in/edwardribas/) <br>
