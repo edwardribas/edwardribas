@@ -2,7 +2,7 @@
 
 Web development student <br>
 Always trying to get better on my projects <br>
-You can see them in my [portfolio](https://edwardribas.github.io/).
+You can see them in my [portfolio](https://edwardribas.netlify.app/).
 
 * * *
 
