@@ -1,10 +1,9 @@
 ### Hey! I'm Edward 👋
 
-Web development student <br>
-Always trying to get better on my projects <br>
-You can see them in my [portfolio](https://edwardribas.netlify.app/).
+I'm a 18 years old Web Developer.\
+I have experience with HTML, CSS, React, MySQL, JavaScript and C#.\
+You can see some of my projects in my [portfolio](https://edwardribas.netlify.app/).
 
-* * *
+\
+<img src="./aboutme.png"/>
 
-[Instagram](https://instagram.com/edwardb.as) • 
-[LinkedIn](https://www.linkedin.com/in/edwardribas/) <br>
